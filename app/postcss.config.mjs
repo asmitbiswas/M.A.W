@@ -4,4 +4,6 @@ const config = {
   },
 };
 
+// bug fixed here
+
 export default config;
